@@ -28,7 +28,7 @@
             else if(empCheck == IS_PART_TIME)
             {
                 Console.WriteLine("Part time Employee is Present");
-                empHour = 4; //Full time employee is present, assiging part time hour = 4
+                empHour = 4; //Part time employee is present, assiging part time hour = 4
             }
             else
                Console.WriteLine("Employee is Absent"); //not assigning empHour = 0 as by default value is 0
