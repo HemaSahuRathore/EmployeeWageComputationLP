@@ -1,6 +1,6 @@
 ﻿namespace EmployeeWageComputationLP
 {   /// <summary>
-    ///  UC3: Add Part time Employee & Wage (Assuming Full time hour = 8 and Part time hour = 4)
+    ///  UC3:Solving using Switch Case
     /// </summary>
     public class Program
     {   //Entrypoint for all console applications
@@ -20,18 +20,23 @@
             int empCheck = random.Next(0, 3);  //using next() method to generate random values 0, 1 & 2
 
             //Using selection statement to check for full time and part time employee
-            if (empCheck == IS_FULL_TIME)
-            {
-                Console.WriteLine("Full time Employee is Present");
-                empHour = 8; //Full time employee is present assiging full time hour = 8
-            }
-            else if(empCheck == IS_PART_TIME)
-            {
-                Console.WriteLine("Part time Employee is Present");
-                empHour = 4; //Full time employee is present, assiging part time hour = 4
-            }
-            else
-               Console.WriteLine("Employee is Absent"); //not assigning empHour = 0 as by default value is 0
+            switch (empCheck)
+             {
+                case IS_FULL_TIME:
+                      Console.WriteLine("Full time Employee is Present");
+                      empHour = 8; //Full time employee is present assiging full time hour = 8
+                      break;
+
+                case IS_PART_TIME:
+                      Console.WriteLine("Part time Employee is Present");
+                      empHour = 4; //Part time employee is present, assiging part time hour = 4
+                      break;
+
+
+                default:   
+                      Console.WriteLine("Employee is Absent"); //not assigning empHour = 0 as by default value is 0
+                      break;
+             }
             
             empWage = empHour * WAGE_PER_HOUR; //Calculating Emp Wage( = Emp hour * wage per hour)
             Console.WriteLine("Employee wage is {0}", empWage); //displaying Emp wage
