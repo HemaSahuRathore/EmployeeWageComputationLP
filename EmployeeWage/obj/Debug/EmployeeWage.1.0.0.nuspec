@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EmployeeWage</id>
+    <version>1.0.0</version>
+    <authors>EmployeeWage</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.runtimeconfig.json" target="lib\net6.0\EmployeeWage.runtimeconfig.json" />
+    <file src="C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWage.dll" target="lib\net6.0\EmployeeWage.dll" />
+  </files>
+</package>

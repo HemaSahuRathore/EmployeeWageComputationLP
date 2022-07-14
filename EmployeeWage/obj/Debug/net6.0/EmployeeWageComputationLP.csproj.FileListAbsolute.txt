@@ -1,0 +1,15 @@
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWageComputationLP.exe
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWageComputationLP.deps.json
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWageComputationLP.runtimeconfig.json
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWageComputationLP.dll
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net6.0\EmployeeWageComputationLP.pdb
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.csproj.AssemblyReference.cache
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.AssemblyInfoInputs.cache
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.AssemblyInfo.cs
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.csproj.CoreCompileInputs.cache
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.dll
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\refint\EmployeeWageComputationLP.dll
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.pdb
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\EmployeeWageComputationLP.genruntimeconfig.cache
+C:\Users\Chank\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net6.0\ref\EmployeeWageComputationLP.dll
